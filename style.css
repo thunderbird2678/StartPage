@@ -1,20 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700');
+
 body
 {
 	background-color:#121212;
 	color:#aeaeae;
 }
 
-.Header
+a:link, a:hover, a:visited, a:active
 {
+	color:#aeaeae;
+	text-decoration:none;
+}
+
+.myHeader
+{
+	font-size:45px;
+	font-weight:300;
 	padding-top: 150px;
 	padding-bottom: 50px;
 	text-align:center;
 	font-family:Lato;
-	font-weight:300;
 }
 
 .dropdown
 {
 	text-align:center;
 	font-family:Lato;
+	font-weight:300;
 }
