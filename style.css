@@ -22,22 +22,44 @@ a:link, a:hover, a:visited, a:active
 	font-family:Lato;
 }
 
-.dropdown
+.col
 {
 	text-align:center;
 	position:relative;
+	font-family:Lato;
+	font-weight:300;
 }
 
 dropdownbtn
 {
-	font-family:Lato;
-	font-weight:300;
 }
 
-.dropdown2
+#dropdownmenu1
 {
 	display:none;
-	font-family:Lato;
-	font-weight:300;
-	position:absolute;
+}
+
+#dropdownmenu2
+{
+	display:none;
+}
+
+#dropdownmenu3
+{
+	display:none;
+}
+
+#dropdownmenu4
+{
+	display:none;
+}
+
+#dropdownmenu5
+{
+	display:none;
+}
+
+#dropdownmenu6
+{
+	display:none;
 }
