@@ -25,6 +25,19 @@ a:link, a:hover, a:visited, a:active
 .dropdown
 {
 	text-align:center;
+	position:relative;
+}
+
+dropdownbtn
+{
 	font-family:Lato;
 	font-weight:300;
+}
+
+.dropdown2
+{
+	display:none;
+	font-family:Lato;
+	font-weight:300;
+	position:absolute;
 }
