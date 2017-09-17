@@ -2,6 +2,8 @@
 
 Written from scratch as a practical learning experience for HTML / CSS / Bootstrap / JQuery. Utilizes responsive columns and hoverable dropdown menus. 
 
-[Webm](https://my.mixtape.moe/msyhqq.webm)
+## Screenshot
 
-[Demo](https://thunderbird2678.github.io/StartPage/)
+![](https://i.imgur.com/bkFM5vr.png)
+
+## [Demo](https://thunderbird2678.github.io/StartPage/)
